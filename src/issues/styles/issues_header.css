@@ -1,0 +1,7 @@
+.issues-header{
+  text-align: right;
+}
+
+.issues-header > .dropdown {
+  display: inline-block;
+}
